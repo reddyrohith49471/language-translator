@@ -1,3 +1,15 @@
+#pip's
+#1.pip install SpeechRecognition
+#2.pip install gTTS
+#3.pip install playsound
+#4.pip install googletrans==4.0.0-rc1
+#5.pip install pyaudio
+
+
+
+
+
+
 import speech_recognition as spr
 from googletrans import Translator
 from gtts import gTTS
